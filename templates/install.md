@@ -1,5 +1,14 @@
 Install with [npm](npmjs.org):
-
+{% if (typeof command !== "undefined") { %}
 ```bash
-npm i {%= typeof g !== 'undefined' ? '-g ' : '' %}{%= name %} {%= typeof save !== 'undefined' ? '--save' : '--save-dev' %}
+npm i {%= name %} {%= command %}
 ```
+{% } else if (typeof g !== "undefined") { %}
+```bash
+npm i -g {%= name %}
+```
+{% } else { %}
+```bash
+npm i {%= name %} {%= typeof save !== "undefined" ? "--save" : "--save-dev" %}
+```
+{% } %}
