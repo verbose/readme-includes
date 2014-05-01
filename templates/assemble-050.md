@@ -1,0 +1,1 @@
+**Heads up!** v{%= minimum-version %} or greater of this plugin depend on Assemble v0.5.0. This plugin will not work with Assemble v0.4.0!
