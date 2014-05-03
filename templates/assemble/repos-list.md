@@ -2,4 +2,4 @@ Here are some related projects you might be interested in from the [Assemble](ht
 {% _.each(repos, function(repo) { %}
 + [{%= repo.name %}]({%= repo.url %}): {%= repo.description %} {% }); %}
 
-Visit [assemble.io/plugins](http:/assemble.io/plugins/) for more information about [Assemble](http:/assemble.io/) plugins.
+Visit [assemble.io/assemble-middleware](http:/assemble.io/assemble-middleware/) for more information about [Assemble](http:/assemble.io/) middleware.

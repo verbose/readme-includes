@@ -1,1 +1,1 @@
-**Upgrade notice!** v{%= minimum %} or greater of this plugin depend on Assemble v0.5.0. _This plugin will not work with Assemble v0.4.0!_
+**Upgrade notice!** v{%= minimum %} or greater of this middleware depend on Assemble v0.5.0. _This middleware will not work with Assemble v0.4.0!_
