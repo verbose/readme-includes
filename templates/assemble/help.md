@@ -2,7 +2,7 @@
 
 * Visit Assemble's [middleware documentation](http://assemble.io/middleware/), or [general documentation](http://assemble.io/)
 * Ask general questions or get help on [StackOverflow](http://stackoverflow.com/questions/tagged/assemble). Please remember to use the `assemble` tag in your questions.
-* Don't like Assemble? Here are some [other static site generators](https://www.youtube.com/watch?v=iRgPaB7pWA4) you might find interesting.
+* Don't like Assemble? Here are some [similar projects](https://www.youtube.com/watch?v=iRgPaB7pWA4) you might find interesting.
 
 ## Bugs and feature requests
 
