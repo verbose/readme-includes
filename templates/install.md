@@ -7,5 +7,5 @@ npm i {%= name %} {%= command %}
 npm i -g {%= name %}
 ```{% } else { %}
 ```bash
-npm i {%= name %} {%= typeof save !== "undefined" ? "--save" : "--save-dev" %}
+npm i {%= name %} {%= (typeof save !== "undefined" && save === 'save') ? "--save" : "--save-dev" %}
 ```{% } %}
