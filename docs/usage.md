@@ -6,7 +6,7 @@ Provide the name of the include you want to use without the file extension:
 
 [footer.md](./templates/footer.md) will be included, resulting in:
 
-<!-- don't escape this template! -->
+<!-- DON'T ESCAPE THIS TEMPLATE! -->
 
 ```markdown
 {%= include("footer") %}
