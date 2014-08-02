@@ -6,7 +6,7 @@
 
 ## Bugs and feature requests
 
-> Before creating an issue, please search to see if a related one already exists (oh, and you should know that every time an issue is created on the wrong repo, a programmer loses his beard. I'm so serious it's not even funny. His actual beard, gone. So please try not to do that.)
+> Before creating an issue, please search to see if a related one already exists
 
 * For bugs and feature requests related to this project, please [create an issue here]({%= bugs.url %})
 * For Assemble bugs and feature requests, please [create an issue on the main assemble project](https://github.com/assemble/assemble/issues)

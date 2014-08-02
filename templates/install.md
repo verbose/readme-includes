@@ -1,4 +1,4 @@
-Install with [npm](npmjs.org):
+### Install with [npm](npmjs.org):
 {% if (typeof command !== "undefined") { %}
 ```bash
 npm i {%= name %} {%= command %}
