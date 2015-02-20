@@ -1,7 +1,7 @@
 {
   "name": "verb-readme-includes",
   "description": "Template partials for Verb, the markdown documentation generator with zero-configuration required.",
-  "version": "0.1.20",
+  "version": "0.2.2",
   "homepage": "https://github.com/assemble/verb-readme-includes",
   "author": {
     "name": "Jon Schlinkert",
@@ -17,9 +17,6 @@
     "templates"
   ],
   "main": "index.js",
-  "devDependencies": {
-    "verb": "~0.2.2"
-  },
   "keywords": [
     "boilerplates",
     "docs",
