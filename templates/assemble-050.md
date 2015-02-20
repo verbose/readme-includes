@@ -1,1 +1,0 @@
-**Upgrade notice!**: as of v{%= minimum %}, _this middlweare requires Assemble v0.5.0._

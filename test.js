@@ -8,16 +8,15 @@
 'use strict';
 
 var assert = require('assert');
-require('should');
-var verbReadmeIncludes = require('./');
+var includes = require('./');
 
-describe('verbReadmeIncludes', function () {
+describe('includes', function () {
   it('should equal', function () {
-    verbReadmeIncludes({a: 'b'}).should.eql({a: 'b'});
-    verbReadmeIncludes('abc').should.equal('abc');
+    includes({a: 'b'}).should.eql({a: 'b'});
+    includes('abc').should.equal('abc');
   });
 
   it('should have property.', function () {
-    verbReadmeIncludes({a: 'b'}).should.have.property('a', 'b');
+    includes({a: 'b'}).should.have.property('a', 'b');
   });
 });

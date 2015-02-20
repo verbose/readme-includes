@@ -29,7 +29,7 @@ Any template from this library can be included in another template using the `{%
 + [twitter/assemble](http://twitter.com/assemble) 
 
 ## License
-Copyright (c) 2015-2015 Jon Schlinkert  
+Copyright (c) 2014-2015 Jon Schlinkert  
 Released under the MIT license
 
 ***
