@@ -1,7 +1,3 @@
-{% if (author && author.name) { %}
-**{%= author.name %}**
-{% } else if (author) { %}
-**{%= author %}**
-{% } %} {% if (username) { %}
-+ [github/{%= username %}](https://github.com/{%= username %})
-+ [twitter/{%= username %}](http://twitter.com/{%= username %}) {% } %}
+{%= typeof author !== 'undefined' && author.name ? '**' + author.name + '**' : '' %}
+{%= include("author/github") %}
+{%= include("author/twitter") %}
