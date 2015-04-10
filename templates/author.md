@@ -1,3 +1,1 @@
-{%= typeof author !== 'undefined' && author.name ? '**' + author.name + '**' : '' %}
-{%= include("author/github") %}
-{%= include("author/twitter") %}
+{%= typeof author !== 'undefined' && author.name ? '\n**' + author.name + '**' : '' %}{%= include("author/github") %}{%= include("author/twitter") %}
