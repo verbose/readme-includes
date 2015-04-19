@@ -1,5 +1,5 @@
 ---
-reflink: verb
+reflinks: ['verb']
 ---
 Run [verb] to generate documentation:
 
