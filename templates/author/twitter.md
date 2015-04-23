@@ -1,1 +1,0 @@
-{% var twitter = twitter || {}, username = username || '' %}{% var un = twitter.username || username %}{% if (un) { %}{%= '\n' %}+ [twitter/{%= un %}](http://twitter.com/{%= un %}) {% } %}

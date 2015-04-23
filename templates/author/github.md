@@ -1,1 +1,0 @@
-{% var author = author || {} %}{% var username = author.username || username %}{% if (username) { %}{%= '\n\n' %}+ [github/{%= username %}](https://github.com/{%= username %}){% } %}
