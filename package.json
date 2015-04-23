@@ -23,6 +23,14 @@
     "templates/"
   ],
   "main": "index.js",
+  "devDependencies": {
+    "git-user-name": "^1.1.2",
+    "lodash": "^3.7.0",
+    "markdown-utils": "^0.6.0",
+    "mocha": "^2.2.4",
+    "should": "^6.0.1",
+    "verb": "^0.6.2"
+  },
   "keywords": [
     "boilerplates",
     "docs",
@@ -37,11 +45,5 @@
     "template",
     "templates",
     "verb"
-  ],
-  "devDependencies": {
-    "lodash": "^3.5.0",
-    "markdown-utils": "^0.6.0",
-    "mocha": "^2.2.1",
-    "should": "^5.2.0"
-  }
+  ]
 }
