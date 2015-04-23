@@ -1,0 +1,1 @@
+{%= mdu.link('twitter/' + username, 'http://twitter.com/' + username) %}

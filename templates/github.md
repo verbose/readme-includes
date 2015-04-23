@@ -1,0 +1,1 @@
+{%= mdu.link('github/' + username, 'https://github.com/' + username) %}
