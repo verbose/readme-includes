@@ -1,7 +1,7 @@
 {
   "name": "readme-includes",
   "description": "Snippets for your GitHub project's readme.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/assemble/readme-includes",
   "author": {
     "name": "Jon Schlinkert",
@@ -28,8 +28,9 @@
     "lodash": "^3.7.0",
     "markdown-utils": "^0.6.0",
     "mocha": "^2.2.4",
+    "relative": "^3.0.0",
     "should": "^6.0.1",
-    "verb": "^0.6.2"
+    "verb": "^0.7.4"
   },
   "keywords": [
     "boilerplates",
