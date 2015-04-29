@@ -1,4 +1,2 @@
-**{%= author.name %}**
 
-{%= include("github") %}
-{%= include("twitter") %}
+{%= trim(include("raw/author")) %}
