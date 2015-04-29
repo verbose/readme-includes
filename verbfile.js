@@ -50,7 +50,7 @@ verb.task('templates', function () {
   });
 });
 
-verb.task('default', ['readme']);
+verb.task('default', ['readme', 'docs']);
 
 /**
  * Utility for generating the list of includes in `templates/`
