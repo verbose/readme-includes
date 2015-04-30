@@ -15,8 +15,8 @@ This is what the resulting markdown looks like:
 ```
 **Jon Schlinkert**
 
-[github/jonschlinkert](https://github.com/jonschlinkert)
-[twitter/jonschlinkert](http://twitter.com/jonschlinkert)
++ [github/jonschlinkert](https://github.com/jonschlinkert)
++ [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
 ```
 
 **Rendered result**
@@ -25,8 +25,8 @@ View this on GitHub to see the rendered result.
 
 **Jon Schlinkert**
 
-[github/jonschlinkert](https://github.com/jonschlinkert)
-[twitter/jonschlinkert](http://twitter.com/jonschlinkert)
++ [github/jonschlinkert](https://github.com/jonschlinkert)
++ [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
 
 
 ## Data
