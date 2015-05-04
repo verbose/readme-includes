@@ -15,6 +15,12 @@
 {%= include("authors") %}
 ```
 
+### [benchmarks](../templates/benchmarks.md)
+
+```js
+{%= include("benchmarks") %}
+```
+
 ### [cli](../templates/cli.md)
 
 ```js
@@ -85,6 +91,18 @@
 
 ```js
 {%= include("issues") %}
+```
+
+### [license-mit](../templates/license-mit.md)
+
+```js
+{%= include("license-mit") %}
+```
+
+### [maintainers](../templates/maintainers.md)
+
+```js
+{%= include("maintainers") %}
 ```
 
 ### [run-verb](../templates/run-verb.md)
