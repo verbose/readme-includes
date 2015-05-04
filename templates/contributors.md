@@ -1,5 +1,6 @@
 {% if (contributors) { %}
 ## Contributors
-{% contributors.forEach(function (contributor) { %}
-* [{%= contributor.name %}]({%= contributor.url %}){% }) %}
+{% contributors.forEach(function (person) { %}
++ [{%= person.name %}]({%= person.url %})
+{% }) %}
 {% } %}
