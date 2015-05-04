@@ -1,7 +1,7 @@
 {
   "name": "readme-includes",
   "description": "Snippets for your GitHub project's readme.",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homepage": "https://github.com/assemble/readme-includes",
   "author": {
     "name": "Jon Schlinkert",
