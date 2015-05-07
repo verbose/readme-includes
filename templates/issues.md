@@ -1,1 +1,1 @@
-Please [report any bugs or feature requests](https://github.com/{%= repo %}/issues/new), thanks!
+Please [report any bugs or feature requests]({%= bugs.url %}/new), thanks!
