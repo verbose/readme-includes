@@ -1,8 +1,7 @@
----
-reflinks: ['verb']
----
-Run [verb] to generate documentation:
+Install dev dependencies, then run [verb] to build documentation:
 
 ```js
-npm i -d && verb
+npm install -d && verb
 ```
+
+[verb]: https://github.com/verbose/verb

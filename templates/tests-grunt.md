@@ -1,5 +1,5 @@
 Install dev dependencies:
 
 ```sh
-$ npm i -d && grunt{%= typeof cmd !== 'undefined' ? (' ' + cmd) : '' %}
+$ npm install -d && grunt{%= typeof cmd !== 'undefined' ? (' ' + cmd) : '' %}
 ```

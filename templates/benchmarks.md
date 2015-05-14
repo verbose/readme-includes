@@ -1,5 +1,5 @@
 Install dev dependencies:
 
-```bash
-npm i -d && npm run benchmarks
+```sh
+$ npm i -d && npm run benchmarks
 ```
