@@ -1,7 +1,7 @@
-Install dev dependencies, then run [verb] to build documentation:
+Install dev dependencies, then run [verb]:
 
 ```js
-npm install -d && verb
+$ npm install -d && verb
 ```
 
 [verb]: https://github.com/verbose/verb
