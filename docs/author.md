@@ -13,7 +13,7 @@
 This is what the resulting markdown looks like:
 
 ```
-**Jon Schlinkert**
+****
 
 + [github/jonschlinkert](https://github.com/jonschlinkert)
 + [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
@@ -23,7 +23,7 @@ This is what the resulting markdown looks like:
 
 View this on GitHub to see the rendered result.
 
-**Jon Schlinkert**
+****
 
 + [github/jonschlinkert](https://github.com/jonschlinkert)
 + [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
@@ -42,3 +42,7 @@ For the `github` and/or `twitter` links, you must have one of the following defi
 - `username`: renders both links
 - `twitter.username`: renders the twitter link
 - `github.username`: renders the github link
+
+[assemble]: http://assemble.io
+[template]: https://github.com/jonschlinkert/template
+[verb]: https://github.com/assemble/verb

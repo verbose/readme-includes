@@ -3,123 +3,163 @@
 > Usage examples for all of the included templates
 
 
-### [author](../templates/author.md)
+### [twitter.md](../templates/twitter.md)
 
 ```js
-{%= include("author") %}
+{%= include("twitter.md") %}
 ```
 
-### [authors](../templates/authors.md)
+### [tests.md](../templates/tests.md)
 
 ```js
-{%= include("authors") %}
+{%= include("tests.md") %}
 ```
 
-### [benchmarks](../templates/benchmarks.md)
+### [tests-grunt.md](../templates/tests-grunt.md)
 
 ```js
-{%= include("benchmarks") %}
+{%= include("tests-grunt.md") %}
 ```
 
-### [cli](../templates/cli.md)
+### [run-verb.md](../templates/run-verb.md)
 
 ```js
-{%= include("cli") %}
+{%= include("run-verb.md") %}
 ```
 
-### [contributing-extra](../templates/contributing-extra.md)
+### [maintainers.md](../templates/maintainers.md)
 
 ```js
-{%= include("contributing-extra") %}
+{%= include("maintainers.md") %}
 ```
 
-### [contributing](../templates/contributing.md)
+### [license-mit.md](../templates/license-mit.md)
 
 ```js
-{%= include("contributing") %}
+{%= include("license-mit.md") %}
 ```
 
-### [contributors](../templates/contributors.md)
+### [issues.md](../templates/issues.md)
 
 ```js
-{%= include("contributors") %}
+{%= include("issues.md") %}
 ```
 
-### [footer](../templates/footer.md)
+### [install.md](../templates/install.md)
 
 ```js
-{%= include("footer") %}
+{%= include("install.md") %}
 ```
 
-### [github](../templates/github.md)
+### [install-npm.md](../templates/install-npm.md)
 
 ```js
-{%= include("github") %}
+{%= include("install-npm.md") %}
 ```
 
-### [history](../templates/history.md)
+### [install-grunt.md](../templates/install-grunt.md)
 
 ```js
-{%= include("history") %}
+{%= include("install-grunt.md") %}
 ```
 
-### [install-bower](../templates/install-bower.md)
+### [install-global.md](../templates/install-global.md)
 
 ```js
-{%= include("install-bower") %}
+{%= include("install-global.md") %}
 ```
 
-### [install-global](../templates/install-global.md)
+### [install-bower.md](../templates/install-bower.md)
 
 ```js
-{%= include("install-global") %}
+{%= include("install-bower.md") %}
 ```
 
-### [install-npm](../templates/install-npm.md)
+### [history.md](../templates/history.md)
 
 ```js
-{%= include("install-npm") %}
+{%= include("history.md") %}
 ```
 
-### [install](../templates/install.md)
+### [github.md](../templates/github.md)
 
 ```js
-{%= include("install") %}
+{%= include("github.md") %}
 ```
 
-### [issues](../templates/issues.md)
+### [footer.md](../templates/footer.md)
 
 ```js
-{%= include("issues") %}
+{%= include("footer.md") %}
 ```
 
-### [license-mit](../templates/license-mit.md)
+### [download.md](../templates/download.md)
 
 ```js
-{%= include("license-mit") %}
+{%= include("download.md") %}
 ```
 
-### [maintainers](../templates/maintainers.md)
+### [contributors.md](../templates/contributors.md)
 
 ```js
-{%= include("maintainers") %}
+{%= include("contributors.md") %}
 ```
 
-### [run-verb](../templates/run-verb.md)
+### [contributing.md](../templates/contributing.md)
 
 ```js
-{%= include("run-verb") %}
+{%= include("contributing.md") %}
 ```
 
-### [tests](../templates/tests.md)
+### [contributing-extra.md](../templates/contributing-extra.md)
 
 ```js
-{%= include("tests") %}
+{%= include("contributing-extra.md") %}
 ```
 
-### [twitter](../templates/twitter.md)
+### [contributing-detailed.md](../templates/contributing-detailed.md)
 
 ```js
-{%= include("twitter") %}
+{%= include("contributing-detailed.md") %}
 ```
 
+### [clone.md](../templates/clone.md)
+
+```js
+{%= include("clone.md") %}
+```
+
+### [cli.md](../templates/cli.md)
+
+```js
+{%= include("cli.md") %}
+```
+
+### [build-docs.md](../templates/build-docs.md)
+
+```js
+{%= include("build-docs.md") %}
+```
+
+### [benchmarks.md](../templates/benchmarks.md)
+
+```js
+{%= include("benchmarks.md") %}
+```
+
+### [authors.md](../templates/authors.md)
+
+```js
+{%= include("authors.md") %}
+```
+
+### [author.md](../templates/author.md)
+
+```js
+{%= include("author.md") %}
+```
+
+
+[assemble]: http://assemble.io
+[template]: https://github.com/jonschlinkert/template
+[verb]: https://github.com/assemble/verb
