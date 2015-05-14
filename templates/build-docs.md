@@ -1,1 +1,1 @@
-{%= include("build-docs") %}
+{%= include("run-verb") %}
